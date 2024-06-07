@@ -40,12 +40,13 @@ h1{
     border-right: 1px solid black;
     border-left: 1px solid black;
     transition: all.5s ease;
+    margin-right: 100px;
 }
 .head li :hover{
     background-color: #000;
 }
 .head li a{
-    margin-right: 100px;
+    display: block;
     padding: 15px 70px;
     text-decoration: none;
     color: #fff;
